@@ -1,7 +1,7 @@
-Questo è il file di raccolta del codice presente nel libro [Test-Driven Development, Build Automation, Continuous Integration (with Java, Eclipse and friends)](https://leanpub.com/tdd-buildautomation-ci) by _Lorenzo Bettini_.
+This is the reference index coming from book [Test-Driven Development, Build Automation, Continuous Integration (with Java, Eclipse and friends)](https://leanpub.com/tdd-buildautomation-ci) by _Lorenzo Bettini_.
 
-Mi sto esercitando in previsione dell'esame di Advanced Programming Techniques e questa pagina è il punto di raccolta dei diversi progetti così come sono presentati nel libro.
-A differenza del libro, utilizzerò solo Java 11.
+I'm practicing on Advanced Programming Techniques in order to prepare myself for the relative Computer Science exam. This is my attempt to follow the mentioned book.
+Unlike what is reported in the book, I will only use java 11
 
 - Chapter Eclipse
   - [java-example](https://github.com/MassimilianoMancini/java-example)
