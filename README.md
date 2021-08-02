@@ -1,7 +1,7 @@
 This is the reference index coming from book [Test-Driven Development, Build Automation, Continuous Integration (with Java, Eclipse and friends)](https://leanpub.com/tdd-buildautomation-ci) by _Lorenzo Bettini_.
 
 I'm practicing on Advanced Programming Techniques in order to prepare myself for the relative Computer Science exam. This is my attempt to follow the mentioned book.
-Unlike what is reported in the book, I will only use java 11
+Unlike what is reported in the book, I will only use java 11 and Jupiter + AssertJ instead of JUnit 4
 
 - Chapter Eclipse
   - [java-example](https://github.com/MassimilianoMancini/java-example)
