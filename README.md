@@ -22,6 +22,7 @@ Unlike what is reported in the book, I will only use java 11 and Jupiter + Asser
   - [mutation-testing-factorial-example](https://github.com/MassimilianoMancini/mutation-testing-factorial-example)
   - [mutation-testing-bank-example](https://github.com/MassimilianoMancini/mutation-testing-bank-example)
 - Chapter Maven
+  - [maven-commandline-example](https://github.com/MassimilianoMancini/maven-commandline-example)
   - [maven-bank-example](https://github.com/MassimilianoMancini/maven-bank-example)
   - [maven-app-example](https://github.com/MassimilianoMancini/maven-app-example)
   - [maven-multimodule-example](https://github.com/MassimilianoMancini/maven-multimodule-example)
