@@ -33,7 +33,7 @@ Unlike what is reported in the book, I will only use java 11 and Jupiter + Asser
 - Chapter Mocking
   - [mockito-example](https://github.com/MassimilianoMancini/mockito-example)
 - Chapter Git
-  - [java-examples](https://github.com/MassimilianoMancini/java-examples)
+  - [git-java-examples](https://github.com/MassimilianoMancini/git-java-examples)
 - Chapter Continuous Integration
   - [github-ci-example](https://github.com/MassimilianoMancini/github-ci-example)
 - Chapter Docker
