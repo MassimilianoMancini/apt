@@ -37,6 +37,7 @@ Unlike what is reported in the book, I will only use java 11 and Jupiter + Asser
 - Chapter Continuous Integration
   - [github-ci-example](https://github.com/MassimilianoMancini/github-ci-example)
 - Chapter Docker
+  - [docker-apache-example](https://github.com/MassimilianoMancini/docker-apache-example)
   - [docker-java-example](https://github.com/MassimilianoMancini/docker-java-example)
   - [docker-compose-java-example](https://github.com/MassimilianoMancini/docker-compose-java-example)
 - Chapter Integration tests
